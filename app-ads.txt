@@ -521,3 +521,5 @@ e-planning.net, f5147a97818958f1, RESELLER, c1ba615865ed87b2
 media.net, 8CU675N41, RESELLER
 video.unrulymedia.com, 703273072, RESELLER
 indexexchange.com, 216401, RESELLER, 50b1c356f2c5c8fc
+
+facebook.com, 2003069791078839, DIRECT, c3e20eee3f780d68
