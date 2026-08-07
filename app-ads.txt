@@ -395,7 +395,7 @@ zmaticoo.com, 5135195, RESELLER
 
 #  --- Ironsource Ads app-ads.txt entries ---
 
-ironsrc.com, 671747, DIRECT
+ironsrc.com, 671747, RESELLER
 blueseasx.com, 203625, RESELLER
 rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
 pubnative.net, 1009966, RESELLER, d641df8625486a7b
