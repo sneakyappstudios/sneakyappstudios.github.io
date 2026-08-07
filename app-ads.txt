@@ -1,5 +1,5 @@
 google.com, pub-2844425969228363, DIRECT, f08c47fec0942fa0
-facebook.com, 1967017870920795, DIRECT, c3e20eee3f780d68
+facebook.com, 1967017870920795, RESELLER, c3e20eee3f780d68
 
 # --- InMobi Ads app-ads.txt entries ---
 inmobi.com, d11dfb3ab1dc4635966e32a4a7615f3c, DIRECT, 83e75a7ae333ca9d
