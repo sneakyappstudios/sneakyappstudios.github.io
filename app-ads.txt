@@ -1013,7 +1013,8 @@ voisetech.com, 1066, RESELLER
 xandr.com, 17779, RESELLER
 zetaglobal.net, 525, RESELLER
 zmaticoo.com, 5135195, RESELLER
-
+monetrix.ai, 10761, RESELLER
+start.io, 131192070, RESELLER
 
 #  --- Ironsource Ads app-ads.txt entries ---
 
